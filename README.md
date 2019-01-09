@@ -1,13 +1,17 @@
-ProxmoxVE API Client
+ProxmoxMG API Client
 ====================
 
 This **PHP 5.5+** library allows you to interact with your Proxmox server via API.
 
-[![Build Status](https://travis-ci.org/ZzAntares/ProxmoxVE.svg?branch=master)](https://travis-ci.org/ZzAntares/ProxmoxVE)
-[![Latest Stable Version](https://poser.pugx.org/zzantares/proxmoxve/v/stable.svg)](https://packagist.org/packages/zzantares/proxmoxve)
-[![Total Downloads](https://poser.pugx.org/zzantares/proxmoxve/downloads.svg)](https://packagist.org/packages/zzantares/proxmoxve)
-[![Latest Unstable Version](https://poser.pugx.org/zzantares/proxmoxve/v/unstable.svg)](https://packagist.org/packages/zzantares/proxmoxve)
-[![License](https://poser.pugx.org/zzantares/proxmoxve/license.svg)](https://packagist.org/packages/zzantares/proxmoxve)
+[![Coverage](https://git.isp-serverfarm.de/whmcs-ispserverfarm-sources/proxmoxmg-php-client/badges/master/coverage.svg?job=coverage)](https://git.isp-serverfarm.de/strausmann/proxmoxmg-php-client/commits/master)
+[![Build Status](https://git.isp-serverfarm.de/whmcs-ispserverfarm-sources/proxmoxmg-php-client/badges/master/pipeline.svg)](https://git.isp-serverfarm.de/strausmann/proxmoxmg-php-client/commits/master)
+[![Latest Stable Version](https://poser.pugx.org/strausmann/proxmoxmg-api-client/v/stable)](https://packagist.org/packages/strausmann/proxmoxmg-api-client)
+[![Daily Downloads](https://poser.pugx.org/strausmann/proxmoxmg-api-client/d/daily)](https://packagist.org/packages/strausmann/proxmoxmg-api-client)
+[![Monthly Downloads](https://poser.pugx.org/strausmann/proxmoxmg-api-client/d/monthly)](https://packagist.org/packages/strausmann/proxmoxmg-api-client)
+[![Total Downloads](https://poser.pugx.org/strausmann/proxmoxmg-api-client/downloads)](https://packagist.org/packages/strausmann/proxmoxmg-api-client)
+[![Latest Unstable Version](https://poser.pugx.org/strausmann/proxmoxmg-api-client/v/unstable)](https://packagist.org/packages/strausmann/proxmoxmg-api-client)
+[![License](https://poser.pugx.org/strausmann/proxmoxmg-api-client/license)](https://packagist.org/packages/strausmann/proxmoxmg-api-client)
+
 
 > If you find any errors, typos or you detect that something is not working as expected please open an [issue](https://github.com/ZzAntares/ProxmoxVE/issues/new) or tweetme [@ZzAntares](https://twitter.com/ZzAntares). I'll try to release a fix asap.
 
