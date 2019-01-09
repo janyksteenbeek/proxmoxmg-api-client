@@ -1,0 +1,39 @@
+{
+    "name": "strausmann/proxmoxmg-api-client",
+    "type": "library",
+    "description": "A simple PHP 5.5+ Proxmox Mail Gateway API client.",
+    "keywords": ["Proxmox", "API", "Mail", "Gateway", "SPAM"],
+    "homepage": "https://git.isp-serverfarm.de/strausmann/proxmoxmg-php-client",
+    "license": "MIT",
+
+    "authors": [
+        {
+            "name": "Björn Strausmann",
+            "email": "bjoern@strausmann.net",
+            "role": "Developer"
+        }
+    ],
+
+    "support": {
+        "issues": "https://git.isp-serverfarm.de/strausmann/proxmoxmg-php-client/issues",
+        "source": "https://git.isp-serverfarm.de/strausmann/proxmoxmg-php-client"
+    },
+
+    "require": {
+        "php": ">=5.5.0",
+        "lib-curl": "*",
+        "guzzlehttp/guzzle": "~6.0"
+    },
+
+    "require-dev": {
+        "phpunit/phpunit": "~4.1",
+        "squizlabs/php_codesniffer": "1.*"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "ProxmoxMG\\": "src/"
+        }
+    }
+
+}
